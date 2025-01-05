@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL programming error: division by zero. The `bug.cob` file shows the erroneous code that doesn't handle the possibility of division by zero. The `bugSolution.cob` file presents a corrected version that uses an IF statement to check for zero before performing the division.  This prevents program crashes and ensures robust error handling.
